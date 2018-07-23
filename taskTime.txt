@@ -1,0 +1,39 @@
+Header - UTC 07/23/2018 @ 01:29 - 01:29AM - Interval 6min - Sunday - Local Time 07/22/2018 @ 08:29PM
+  	07/23/2018 @ 01:24-01:30	taskTime
+  	07/23/2018 @ 01:29-01:36	nothingRecorded
+  	07/23/2018 @ 01:30-01:36	taskTime
+Header - UTC 07/23/2018 @ 02:09 - 02:09AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:09PM
+  	07/23/2018 @ 02:08-02:10	taskTime
+  	07/23/2018 @ 02:10-02:12	taskTime
+  	07/23/2018 @ 02:12-02:14	taskTime
+  	07/23/2018 @ 02:14-02:16	nothingRecorded
+  	07/23/2018 @ 02:16-02:18	nothingRecorded
+Header - UTC 07/23/2018 @ 02:19 - 02:19AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:19PM
+  	07/23/2018 @ 02:18-02:20	nothingRecorded
+Header - UTC 07/23/2018 @ 02:21 - 02:21AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:21PM
+  	07/23/2018 @ 02:20-02:22	nothingRecorded
+  	07/23/2018 @ 02:22-02:24	nothingRecorded
+Header - UTC 07/23/2018 @ 02:24 - 02:24AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:24PM
+Header - UTC 07/23/2018 @ 02:24 - 02:24AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:24PM
+  	07/23/2018 @ 02:24-02:26	nothingRecorded
+Header - UTC 07/23/2018 @ 02:26 - 02:26AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:26PM
+Header - UTC 07/23/2018 @ 02:26 - 02:26AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:26PM
+Header - UTC 07/23/2018 @ 02:26 - 02:26AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:26PM
+Header - UTC 07/23/2018 @ 02:28 - 02:28AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:28PM
+  	07/23/2018 @ 02:28-02:30	nothingRecorded
+  	07/23/2018 @ 02:30-02:32	nothingRecorded
+Header - UTC 07/23/2018 @ 02:33 - 02:33AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:33PM
+  	07/23/2018 @ 02:32-02:34	nothingRecorded
+Header - UTC 07/23/2018 @ 02:35 - 02:35AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:35PM
+  	07/23/2018 @ 02:34-02:36	nothingRecorded
+  	07/23/2018 @ 02:36-02:38	nothingRecorded
+  	07/23/2018 @ 02:38-02:40	nothingRecorded
+Header - UTC 07/23/2018 @ 02:40 - 02:40AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:40PM
+Header - UTC 07/23/2018 @ 02:40 - 02:40AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:40PM
+Header - UTC 07/23/2018 @ 02:41 - 02:41AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:41PM
+  	07/23/2018 @ 02:40-02:42	nothingRecorded
+  	07/23/2018 @ 02:42-02:44	nothingRecorded
+  	07/23/2018 @ 02:44-02:46	nothingRecorded
+  	07/23/2018 @ 02:46-02:48	nothingRecorded
+Header - UTC 07/23/2018 @ 02:49 - 02:49AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:49PM
+Header - UTC 07/23/2018 @ 02:51 - 02:51AM - Interval 2min - Sunday - Local Time 07/22/2018 @ 09:51PM

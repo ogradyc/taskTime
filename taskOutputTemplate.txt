@@ -1,0 +1,13 @@
+
+---------|---------|---------|---------|---------|---------|---------|---------|---------|
+Current Project - theprojectNumber
+
+currentTime - createProjectNumber
+
+
+How's this
+
+theTasks
+Count: theCount - Times Six(Minutes): theTimeSpentOnProject
+
+---------|---------|---------|---------|---------|---------|---------|---------|---------|
